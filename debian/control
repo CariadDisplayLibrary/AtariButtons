@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: AtariButtons.h
-Description: Atari Buttons font for DisplayCore
+Description: Atari Buttons
