@@ -1,2 +1,2 @@
-AtariButtons.cpp libraries/DisplayCore/AtariButtons
-AtariButtons.h libraries/DisplayCore/AtariButtons
+src libraries/DisplayCore/AtariButtons
+library.properties libraries/DisplayCore/AtariButtons
